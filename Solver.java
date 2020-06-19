@@ -5,8 +5,8 @@ import java.util.*;
 
 public class Solver 
 {
-	private SudokuGrid					     	problem;
-	private ArrayList<SudokuGrid>				solutions;
+	private SudokuGrid problem;
+	private ArrayList<SudokuGrid> solutions;
 	
 	
 	public Solver(SudokuGrid problem)
